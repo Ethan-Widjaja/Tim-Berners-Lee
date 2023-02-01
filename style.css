@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+hr{
+    width: 100px;
+    height:5px;
+    background-color: black;
+}
+div{
+    background:linear-gradient(#009432,#A3CB38,#C4E538);
+}
+h2{
+    font-size:  50px;
+    font-family: 'Alumni Sans Pinstripe';
+}
+h3{
+    font-size: 40px;
+}
+h4{
+    font-size: 30px;
+}
+img{
+    width: 250px;
+    border-radius: 200px;
+}
+p{
+font-size: 20px;
+font-family: 'Bellota';
+}
+.menu{
+    position:absolute;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    z-index:10;
+}
+.links{
+    float:left;
+    color:#0652DD;
+    font-size:20px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+.links:hover{
+    background-color:#12CBC4;
+}
